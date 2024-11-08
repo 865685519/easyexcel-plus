@@ -8,5 +8,5 @@ easyexcel作者最新升级版本将在11月底正式发布。
 
 3、性能优化，bugFix。
 
-有什么新feature欢迎大家在这里提issue.
+有什么新feature欢迎大家在这里提issue。
 
